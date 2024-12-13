@@ -1,0 +1,364 @@
+[
+    {
+        "name": "Iguazu Falls",
+        "score": 4.5,
+        "description": "This chain of gigantic waterfalls set amongst a teeming rainforest in northern Argentina is one of the world’s most beautiful natural wonders. Nothing can prepare you for the power and noise of the towering cascades.",
+        "main_image": "https://via.placeholder.com/150",
+        "images": [
+            "https://via.placeholder.com/150",
+            "https://via.placeholder.com/150"
+        ],
+        "reviews": [
+            {
+                "user": {
+                    "email": "example@example.com",
+                    "name": "John",
+                    "last_name": "Doe"
+                },
+                "score": 5,
+                "message": "The best place I've ever been!"
+            },
+            {
+                "user": {
+                    "email": "user2@example.com",
+                    "name": "Jane",
+                    "last_name": "Smith"
+                },
+                "score": 4,
+                "message": "Amazing experience, but it was a bit crowded."
+            }
+        ]
+    },
+    {
+        "name": "The Great Barrier Reef, Australia",
+        "score": 4.8,
+        "description": "The world's largest coral reef system, a breathtaking underwater paradise teeming with marine life. A must-see for any diver or snorkeler!",
+        "main_image": "https://via.placeholder.com/150",
+        "images": [
+          "https://via.placeholder.com/150",
+          "https://via.placeholder.com/150"
+        ],
+        "reviews": [
+          {
+            "user": {
+              "email": "placeholder@email.com",
+              "name": "William",
+              "last_name": "Anderson"
+            },
+            "score": 5,
+            "message": "The most incredible variety of coral and fish I've ever seen!"
+          },
+          {
+            "user": {
+              "email": "another@email.com",
+              "name": "Sophia",
+              "last_name": "Lee"
+            },
+            "score": 4.5,
+            "message": "Be sure to book your snorkeling or diving trip in advance, especially during peak season."
+          }
+        ]
+      },
+      {
+        "name": "The Eiffel Tower, France",
+        "score": 4.7,
+        "description": "A wrought-iron lattice tower on the Champ de Mars in Paris, France. An iconic landmark and a symbol of the City of Lights. Offers stunning panoramic views of Paris!",
+        "main_image": "https://via.placeholder.com/150",
+        "images": [
+          "https://via.placeholder.com/150",
+          "https://via.placeholder.com/150"
+        ],
+        "reviews": [
+          {
+            "user": {
+              "email": "placeholder@email.com",
+              "name": "Maria",
+              "last_name": "Garcia"
+            },
+            "score": 5,
+            "message": "A romantic and unforgettable experience. The view from the top is breathtaking!"
+          },
+          {
+            "user": {
+              "email": "another@email.com",
+              "name": "David",
+              "last_name": "Jones"
+            },
+            "score": 4.2,
+            "message": "The lines can be quite long, so be prepared to wait. However, the view is definitely worth it."
+          }
+        ]
+      },
+      {
+        "name": "Roma, Italia",
+        "score": 4.9,
+        "description": "La Ciudad Eterna, un tesoro de historia y arte. Desde el Coliseo hasta la Fontana di Trevi, Roma ofrece una experiencia inolvidable para los amantes de la cultura.",
+        "main_image": "https://via.placeholder.com/150",
+        "images": [
+          "https://via.placeholder.com/150",
+          "https://via.placeholder.com/150"
+        ],
+        "reviews": [
+          {
+            "user": {
+              "email": "placeholder@email.com",
+              "name": "Marco",
+              "last_name": "Rossi"
+            },
+            "score": 5,
+            "message": "Roma es una ciudad que te enamora a primera vista. Cada esquina tiene una historia que contar."
+          },
+          {
+            "user": {
+              "email": "another@email.com",
+              "name": "Sofia",
+              "last_name": "Bianchi"
+            },
+            "score": 4.8,
+            "message": "La comida es deliciosa y la gente es muy amable. ¡Volvería sin dudarlo!"
+          }
+        ]
+      },
+
+    {
+        "name": "Iguazu Falls",
+        "score": 4.5,
+        "description": "This chain of gigantic waterfalls set amongst a teeming rainforest in northern Argentina is one of the world’s most beautiful natural wonders. Nothing can prepare you for the power and noise of the towering cascades.",
+        "main_image": "https://via.placeholder.com/150",
+        "images": [
+            "https://via.placeholder.com/150",
+            "https://via.placeholder.com/150"
+        ],
+        "reviews": [
+            {
+                "user": {
+                    "email": "example@example.com",
+                    "name": "John",
+                    "last_name": "Doe"
+                },
+                "score": 5,
+                "message": "The best place I've ever been!"
+            },
+            {
+                "user": {
+                    "email": "user2@example.com",
+                    "name": "Jane",
+                    "last_name": "Smith"
+                },
+                "score": 4,
+                "message": "Amazing experience, but it was a bit crowded."
+            }
+        ]
+    },
+    {
+        "name": "The Great Barrier Reef, Australia",
+        "score": 4.8,
+        "description": "The world's largest coral reef system, a breathtaking underwater paradise teeming with marine life. A must-see for any diver or snorkeler!",
+        "main_image": "https://via.placeholder.com/150",
+        "images": [
+          "https://via.placeholder.com/150",
+          "https://via.placeholder.com/150"
+        ],
+        "reviews": [
+          {
+            "user": {
+              "email": "placeholder@email.com",
+              "name": "William",
+              "last_name": "Anderson"
+            },
+            "score": 5,
+            "message": "The most incredible variety of coral and fish I've ever seen!"
+          },
+          {
+            "user": {
+              "email": "another@email.com",
+              "name": "Sophia",
+              "last_name": "Lee"
+            },
+            "score": 4.5,
+            "message": "Be sure to book your snorkeling or diving trip in advance, especially during peak season."
+          }
+        ]
+      },
+      {
+        "name": "The Eiffel Tower, France",
+        "score": 4.7,
+        "description": "A wrought-iron lattice tower on the Champ de Mars in Paris, France. An iconic landmark and a symbol of the City of Lights. Offers stunning panoramic views of Paris!",
+        "main_image": "https://via.placeholder.com/150",
+        "images": [
+          "https://via.placeholder.com/150",
+          "https://via.placeholder.com/150"
+        ],
+        "reviews": [
+          {
+            "user": {
+              "email": "placeholder@email.com",
+              "name": "Maria",
+              "last_name": "Garcia"
+            },
+            "score": 5,
+            "message": "A romantic and unforgettable experience. The view from the top is breathtaking!"
+          },
+          {
+            "user": {
+              "email": "another@email.com",
+              "name": "David",
+              "last_name": "Jones"
+            },
+            "score": 4.2,
+            "message": "The lines can be quite long, so be prepared to wait. However, the view is definitely worth it."
+          }
+        ]
+      },
+      {
+        "name": "Roma, Italia",
+        "score": 4.9,
+        "description": "La Ciudad Eterna, un tesoro de historia y arte. Desde el Coliseo hasta la Fontana di Trevi, Roma ofrece una experiencia inolvidable para los amantes de la cultura.",
+        "main_image": "https://via.placeholder.com/150",
+        "images": [
+          "https://via.placeholder.com/150",
+          "https://via.placeholder.com/150"
+        ],
+        "reviews": [
+          {
+            "user": {
+              "email": "placeholder@email.com",
+              "name": "Marco",
+              "last_name": "Rossi"
+            },
+            "score": 5,
+            "message": "Roma es una ciudad que te enamora a primera vista. Cada esquina tiene una historia que contar."
+          },
+          {
+            "user": {
+              "email": "another@email.com",
+              "name": "Sofia",
+              "last_name": "Bianchi"
+            },
+            "score": 4.8,
+            "message": "La comida es deliciosa y la gente es muy amable. ¡Volvería sin dudarlo!"
+          }
+        ]
+      },
+
+    {
+        "name": "Iguazu Falls",
+        "score": 4.5,
+        "description": "This chain of gigantic waterfalls set amongst a teeming rainforest in northern Argentina is one of the world’s most beautiful natural wonders. Nothing can prepare you for the power and noise of the towering cascades.",
+        "main_image": "https://via.placeholder.com/150",
+        "images": [
+            "https://via.placeholder.com/150",
+            "https://via.placeholder.com/150"
+        ],
+        "reviews": [
+            {
+                "user": {
+                    "email": "example@example.com",
+                    "name": "John",
+                    "last_name": "Doe"
+                },
+                "score": 5,
+                "message": "The best place I've ever been!"
+            },
+            {
+                "user": {
+                    "email": "user2@example.com",
+                    "name": "Jane",
+                    "last_name": "Smith"
+                },
+                "score": 4,
+                "message": "Amazing experience, but it was a bit crowded."
+            }
+        ]
+    },
+    {
+        "name": "The Great Barrier Reef, Australia",
+        "score": 4.8,
+        "description": "The world's largest coral reef system, a breathtaking underwater paradise teeming with marine life. A must-see for any diver or snorkeler!",
+        "main_image": "https://via.placeholder.com/150",
+        "images": [
+          "https://via.placeholder.com/150",
+          "https://via.placeholder.com/150"
+        ],
+        "reviews": [
+          {
+            "user": {
+              "email": "placeholder@email.com",
+              "name": "William",
+              "last_name": "Anderson"
+            },
+            "score": 5,
+            "message": "The most incredible variety of coral and fish I've ever seen!"
+          },
+          {
+            "user": {
+              "email": "another@email.com",
+              "name": "Sophia",
+              "last_name": "Lee"
+            },
+            "score": 4.5,
+            "message": "Be sure to book your snorkeling or diving trip in advance, especially during peak season."
+          }
+        ]
+      },
+      {
+        "name": "The Eiffel Tower, France",
+        "score": 4.7,
+        "description": "A wrought-iron lattice tower on the Champ de Mars in Paris, France. An iconic landmark and a symbol of the City of Lights. Offers stunning panoramic views of Paris!",
+        "main_image": "https://via.placeholder.com/150",
+        "images": [
+          "https://via.placeholder.com/150",
+          "https://via.placeholder.com/150"
+        ],
+        "reviews": [
+          {
+            "user": {
+              "email": "placeholder@email.com",
+              "name": "Maria",
+              "last_name": "Garcia"
+            },
+            "score": 5,
+            "message": "A romantic and unforgettable experience. The view from the top is breathtaking!"
+          },
+          {
+            "user": {
+              "email": "another@email.com",
+              "name": "David",
+              "last_name": "Jones"
+            },
+            "score": 4.2,
+            "message": "The lines can be quite long, so be prepared to wait. However, the view is definitely worth it."
+          }
+        ]
+      },
+      {
+        "name": "Roma, Italia",
+        "score": 4.9,
+        "description": "La Ciudad Eterna, un tesoro de historia y arte. Desde el Coliseo hasta la Fontana di Trevi, Roma ofrece una experiencia inolvidable para los amantes de la cultura.",
+        "main_image": "https://via.placeholder.com/150",
+        "images": [
+          "https://via.placeholder.com/150",
+          "https://via.placeholder.com/150"
+        ],
+        "reviews": [
+          {
+            "user": {
+              "email": "placeholder@email.com",
+              "name": "Marco",
+              "last_name": "Rossi"
+            },
+            "score": 5,
+            "message": "Roma es una ciudad que te enamora a primera vista. Cada esquina tiene una historia que contar."
+          },
+          {
+            "user": {
+              "email": "another@email.com",
+              "name": "Sofia",
+              "last_name": "Bianchi"
+            },
+            "score": 4.8,
+            "message": "La comida es deliciosa y la gente es muy amable. ¡Volvería sin dudarlo!"
+          }
+        ]
+      }
+]
