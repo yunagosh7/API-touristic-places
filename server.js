@@ -4,7 +4,10 @@ const app = express()
 
 const data = require('./data.json')
 app.get("/touristic-places", (req, res) => {
-    return res.json(data)
+    setTimeout(() => {
+
+        return res.json(data)
+    }, 2500)
 })
 
 app.listen(3000, () => {
